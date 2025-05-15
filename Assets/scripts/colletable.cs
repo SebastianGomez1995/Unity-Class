@@ -14,7 +14,7 @@ public class colletable : MonoBehaviour
         move myObject = other.GetComponent<move>(); // accediendo a las propiedades y metodos de la clase move(jugador)
         if (myObject != null)
         {
-
+            FindObjectOfType<coin>().AddCoin();
             myObject.cambiaObjeto = true;
         }
         Destroy(gameObject);

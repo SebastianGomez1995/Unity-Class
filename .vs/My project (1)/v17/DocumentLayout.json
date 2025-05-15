@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\luise\\My project (1)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|c:\\users\\luise\\my project (1)\\assets\\scripts\\colletable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\colletable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|c:\\users\\luise\\my project (1)\\assets\\scripts\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\luise\\My project (1)\\assets\\scripts\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|c:\\users\\luise\\my project (1)\\assets\\scripts\\colletable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\colletable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\luise\\My project (1)\\assets\\scripts\\miobjeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,19 +31,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "coin.cs",
+              "DocumentMoniker": "C:\\Users\\luise\\My project (1)\\Assets\\scripts\\coin.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\coin.cs",
+              "ToolTip": "C:\\Users\\luise\\My project (1)\\Assets\\scripts\\coin.cs",
+              "RelativeToolTip": "Assets\\scripts\\coin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T16:53:08.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "colletable.cs",
               "DocumentMoniker": "C:\\Users\\luise\\My project (1)\\Assets\\scripts\\colletable.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\colletable.cs",
               "ToolTip": "C:\\Users\\luise\\My project (1)\\Assets\\scripts\\colletable.cs",
               "RelativeToolTip": "Assets\\scripts\\colletable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-09T21:48:25.108Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "miobjeto.cs",
               "DocumentMoniker": "C:\\Users\\luise\\My project (1)\\Assets\\scripts\\miobjeto.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\miobjeto.cs",
@@ -58,7 +75,7 @@
               "RelativeDocumentMoniker": "Assets\\scripts\\move.cs",
               "ToolTip": "C:\\Users\\luise\\My project (1)\\Assets\\scripts\\move.cs",
               "RelativeToolTip": "Assets\\scripts\\move.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwDMAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAwBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-03T17:05:27.025Z",
               "EditorCaption": ""
